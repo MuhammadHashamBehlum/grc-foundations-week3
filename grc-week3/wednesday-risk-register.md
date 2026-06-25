@@ -1,8 +1,9 @@
 # Risk Assessment & Building a Risk Register (Likelihood × Impact)
 
 **Prepared By:** Mohammad Hesham Wazir Ali Behlum  
-**Program:** BS Cybersecurity – RIT Dubai  
-**Organization:** Sohail Smart Solutions – Summer Training Program 2026
+**University:** Rochester Institute of Technology (RIT) Dubai  
+**Program:** BS Cybersecurity  
+**Internship:** Sohail Smart Solutions Summer Training Program 2026
 
 ---
 
