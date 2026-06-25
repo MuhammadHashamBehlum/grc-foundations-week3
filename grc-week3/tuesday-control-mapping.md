@@ -1,7 +1,8 @@
 # Mapping Security Findings to Controls: From Vulnerability to Compliance Gap
 
-**Prepared By:** Mohammad Hesham Wazir Behlum  
-**Program:** BS Cybersecurity, RIT Dubai  
+**Prepared By:** Mohammad Hesham Wazir Ali Behlum  
+**University:** Rochester Institute of Technology (RIT) Dubai  
+**Program:** BS Cybersecurity  
 **Internship:** Sohail Smart Solutions Summer Training Program 2026
 
 ## Introduction
